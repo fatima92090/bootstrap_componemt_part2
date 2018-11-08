@@ -1,0 +1,126 @@
+/*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) { 
+
+.Custome-slider {
+   padding: 10px 42PX;
+}
+.Custome-slider h1{
+	font-size: 21px;
+	margin-bottom: 12px;
+	margin-top: 4px;
+}
+.Custome-slider p{
+ font-size: 11px;
+ margin-bottom: 15px;
+}
+.cutom-btn{
+margin-bottom: 110px;
+}
+.cus-indicator li {
+    width: 10px;
+    height: 10px;
+    border-radius: 5px;
+
+}
+
+}
+
+/*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+.Custome-slider {
+   padding: 27px 45px;
+}
+.Custome-slider h1{
+	font-size: 25px;
+    margin-bottom: 20px;
+    margin-top: 10px;
+}
+.Custome-slider p{
+ font-size: 13px;
+ margin-bottom: 20px;
+}
+.cutom-btn{
+margin-bottom: 110px;
+}
+.cus-indicator li {
+    width: 12px;
+    height: 12px;
+    border-radius: 6px;
+
+}
+}
+/*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) { 
+	.Custome-slider {
+   padding: 27px 67px;
+}
+.Custome-slider h1{
+	font-size: 27px;
+    margin-bottom: 20px;
+    margin-top: 10px;
+}
+.Custome-slider p{
+ font-size: 15px;
+ margin-bottom: 20px;
+}
+.cutom-btn{
+margin-bottom: 110px;
+}
+.cus-indicator li {
+    width: 13px;
+    height: 13px;
+    border-radius: 7px;
+
+}
+}
+
+/*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+	.Custome-slider {
+   padding: 27px 64px;
+}
+.Custome-slider h1{
+	font-size: 27px;
+    margin-bottom: 20px;
+    margin-top: 10px;
+}
+.Custome-slider p{
+ font-size: 16px;
+ margin-bottom: 20px;
+}
+.cutom-btn{
+margin-bottom: 120px;
+}
+.cus-indicator li {
+    width: 14px;
+    height: 14px;
+    border-radius: 7px;
+
+}
+}
+
+/*Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) {
+
+	.Custome-slider {
+   padding: 27px 92px;
+}
+.Custome-slider h1{
+	font-size: 29px;
+    margin-bottom: 20px;
+    margin-top: 10px;
+}
+.Custome-slider p{
+ font-size: 18px;
+ margin-bottom: 20px;
+}
+.cutom-btn{
+margin-bottom: 120px;
+}
+.cus-indicator li {
+    width: 15px;
+    height: 15px;
+    border-radius: 8px;
+
+}
+}
